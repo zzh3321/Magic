@@ -51,13 +51,6 @@ dependencies {
     compile 'com.zhy:autolayout:1.4.5'
     /*eventBus*/
     compile 'org.greenrobot:eventbus:3.0.0'
-    /*友盟*/
-    compile files('libs/SocialSDK_WeChat_Simplify.jar')
-    compile files('libs/umeng_shareboard_widget.jar')
-    compile files('libs/umeng_social_api.jar')
-    compile files('libs/umeng_social_net.jar')
-    compile files('libs/umeng_social_shareboard.jar')
-    compile files('libs/umeng_social_tool.jar')
     /*友盟统计*/
     compile 'com.umeng.analytics:analytics:latest.integration'
     /*方法数超过65535*/
